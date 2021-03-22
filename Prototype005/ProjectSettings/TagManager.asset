@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HideyHole
+  - Enemy
+  - Platform
+  - Projectile
+  - Box
+  - Barrier
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Platform
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG Pics
+    uniqueID: 3671083997
+    locked: 0
+  - name: Background
+    uniqueID: 3488961825
+    locked: 0
+  - name: SemiBackground
+    uniqueID: 2532779021
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
